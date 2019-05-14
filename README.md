@@ -18,7 +18,7 @@ The projection mapping here means that if we are on a particular color on the cy
 
 We can form a new random walk on the nodes of the path by randomly choosing one node of the same color on the cycle, moving to a neighbor along the cycle, and then projecting back down to the path, as shown below. 
 
-   ![alt text](https://github.com/drdeford/path_lifted_walks/blob/master/Figures/walk_schematic.png "The lifted walk. ")
+   ![alt text](https://github.com/drdeford/path_lifted_walks/blob/master/Figures/walk_schematicc.png "The lifted walk. ")
    
    This new walk has the same stationary distribution as the simple random walk on the path but mixes more rapidly, even though the intermediate graph has more nodes than the original!
 
